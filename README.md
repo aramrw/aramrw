@@ -1,6 +1,4 @@
 
-[![stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-
 <img width="auto" height="380px" alt="image" src="https://github.com/user-attachments/assets/a28ac21c-22d6-4d63-a332-28f671f2f970" />
 
 <img width="auto" height="200px" alt="firegif" src="https://github.com/user-attachments/assets/8b1f43a0-9ebe-4dad-9edc-95484d02b8ff" />
