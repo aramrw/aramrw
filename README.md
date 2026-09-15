@@ -1,3 +1,5 @@
+![Languages Breakdown](./github-metrics.svg)
+
 
 <img width="auto" height="380px" alt="image" src="https://github.com/user-attachments/assets/a28ac21c-22d6-4d63-a332-28f671f2f970" />
 
